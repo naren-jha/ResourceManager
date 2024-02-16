@@ -1,1 +1,1 @@
-# ResourceManager
+# Resource Manager Application
