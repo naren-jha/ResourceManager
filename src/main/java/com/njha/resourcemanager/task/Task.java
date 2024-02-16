@@ -19,5 +19,5 @@ public class Task {
     private Long endTime;
     private StrategyType strategyType;
     private boolean useMultipleResources;
-    List<Resource> resourcesUsed;
+    private List<Resource> resourcesUsed;
 }
