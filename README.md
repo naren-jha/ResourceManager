@@ -7,4 +7,4 @@
 - Uses Java 8 features like - default method in interface, lambda
 
 **Possible improvements :**
-- Explore [visitor](https://refactoring.guru/design-patterns/visitor) design pattern for resource allocation strategy + task execution with multiple resources (with multiple resources, a task can be executed in two manner : one in a distributed manners and other as replica) 
+- Explore [visitor](https://refactoring.guru/design-patterns/visitor) design pattern for resource allocation strategy + task execution with multiple resources (with multiple resources, a task can be executed in two manners : one in a distributed manner and other as replica - distributed as in lets say if a task requires x cpu then x cpu is taken from multiple resources, and replica as in simply running multiple instances of the task) 
