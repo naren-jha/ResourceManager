@@ -1,6 +1,6 @@
 # Resource Manager Application
 
-**Concepts used in this project :**
+**Key concepts used in this project :**
 
 - Uses design patterns like - strategy, factory
 - Uses Java multithreading concetps with concurrency handling
